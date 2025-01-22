@@ -36,6 +36,10 @@ Obvious typographical errors have been silently corrected. Variations
 in hyphenation have been standardised but all other spelling and
 punctuation remains unchanged.
 
+In chapter XVI the word nutt, although no relevant definition can be
+found, remains unchanged and probably refers to a component of the
+violin bow.
+
 Italics are represented thus _italic_.
 
 
